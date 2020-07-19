@@ -1,6 +1,6 @@
 {
   "name": "react-smx",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React bindings for smx",
   "main": "dist/index.js",
   "types": "src/index.d.ts",
@@ -26,7 +26,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "smx": "0.0.5"
+    "smx": "^0.0.6"
   },
   "peerDependencies": {
     "react": "^16.13.1",
